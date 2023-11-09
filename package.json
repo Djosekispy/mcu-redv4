@@ -9,8 +9,10 @@
   "keywords": [
     "Criptograph",
     "math",
-    "password"
+    "password",
+    "criptografia"
   ],
+  "git": "https://github.com/Djosekispy/mcu-redv4",
   "author": "Osvaldo Victor",
   "license": "ISC",
   "dependencies": {
