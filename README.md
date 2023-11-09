@@ -24,13 +24,13 @@ O Projeto de Código Secreto também inclui uma robusta suite de testes automati
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   [git clone https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Djosekispy/mcu-redv4.git)
    ```
 
 2. **Instale as Dependências:**
 
    ```bash
-   cd nome-do-repositorio
+   cd nome-do-projecto
    npm install
    ```
 
