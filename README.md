@@ -2,6 +2,13 @@
 
 O Projeto de Código Secreto é uma aplicação JavaScript que apresenta uma função de codificação, representada pela função `coding`. Essa função recebe um número como entrada e retorna uma string codificada, seguindo regras específicas implementadas no código-fonte.
 
+A função coding() funciona da seguinte forma:
+
+1. Ela divide o número inteiro em grupos de três dígitos.
+2. Para cada grupo de três dígitos, ela calcula um valor usando as três matrizes fornecidas.
+3. O valor calculado é então mapeado para um caractere usando uma tabela de símbolos.
+4. Os caracteres resultantes são então unidos para formar uma string codificada.
+
 ## Funcionalidades Principais
 
 ### Função de Codificação (`coding`)
